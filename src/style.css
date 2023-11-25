@@ -50,12 +50,12 @@ a {
 
 .weather-app-city {
   margin: 0;
-  font-size: 38px;
-  line-height: 40px;
+  font-size: 44px;
+  line-height: 44px;
 }
 
 .weather-app-details {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 20px;
 }
 
